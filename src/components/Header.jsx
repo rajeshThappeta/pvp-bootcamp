@@ -24,6 +24,11 @@ function Header() {
             Test1
           </NavLink>
         </li>
+        <li className="nav-item">
+          <NavLink className="nav-link" to="products-store">
+            ProductsStore
+          </NavLink>
+        </li>
       </ul>
     </div>
   );
